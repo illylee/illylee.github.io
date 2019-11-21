@@ -1,3 +1,9 @@
+---
+title: "elk 로그 모니터링 시스템 구성하기"
+date: 2019-11-20 16:12:00 -0400
+categories: elk kafka beats opensource
+---
+
 [참고] docker, docker-compose
 
 https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose#%EC%82%AC%EC%A0%84-%ED%95%99%EC%8A%B5-%EB%8F%84%EC%BB%A4%EA%B0%80-%EB%AD%90%EC%95%BC
